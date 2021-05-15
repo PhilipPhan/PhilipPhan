@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipPhan
 - 👀 I’m interested in basketball, games, and anime
-- 🌱 I’m currently learning python, machine learning and linux
+- 🌱 Advent machine learning learner trying to develop my own algorithm to calculate how much time we have left in this world
 - 💞️ I’m looking to collaborate on python projects and data analytics
 - 📫 How to reach me: pphan71@gmail.com
 
