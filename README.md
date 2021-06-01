@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball and games
 - 💞️ I’m looking to collaborate on python projects and data analytics
 - 📕 Reading algorithms to live by while learning data structures and machine learning
-- 🌱 I’m currently learning More on TensorFlow
+- 🌱 I’m currently learning More on Machine Learning and TensorFlow
 
 #### Reach Me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
